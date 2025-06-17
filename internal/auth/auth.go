@@ -8,7 +8,7 @@ import (
 
 var ErrNoAuthHeaderIncluded = errors.New("no authorization header included")
 
-func GetAPIKeyBROKEN(headers http.Header) (string, error) {
+func GetAPIKey(headers http.Header) (string, error) {
 	authHeader := headers.Get("Authorization")
 	if authHeader == "" {
 		return "", ErrNoAuthHeaderIncluded
