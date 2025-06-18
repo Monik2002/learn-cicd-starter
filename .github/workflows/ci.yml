@@ -24,6 +24,9 @@ jobs:
       - name: Install gosec
         run: go install github.com/securego/gosec/v2/cmd/gosec@latest
 
+      - name: Run gosec security check
+        run: $(go env GOPATH)/bin/gosec ./...
+
       - name: Run tests with coverage
         run: go test -cover ./...
 
