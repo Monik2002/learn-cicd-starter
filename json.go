@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
-	"fmt"
 )
 
 func respondWithError(w http.ResponseWriter, code int, msg string, logErr error) {
