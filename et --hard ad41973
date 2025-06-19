@@ -1,0 +1,18 @@
+[33mbfae8f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maddtests[m[33m, [m[1;31morigin/addtests[m[33m)[m HEAD@{0}: reset: moving to HEAD~4
+[33m880b442[m HEAD@{1}: reset: moving to HEAD~1
+[33mad41973[m HEAD@{2}: commit: Fix formatting run code
+[33m880b442[m HEAD@{3}: commit: Fix gosec issues: Slowloris protection and error handling
+[33m6073a8d[m HEAD@{4}: commit: Add gosec security check to CI
+[33m4772cfe[m HEAD@{5}: commit: Add gosec security check to CI
+[33m8e47d43[m HEAD@{6}: commit: Add staticcheck for linting in style job
+[33mbfae8f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maddtests[m[33m, [m[1;31morigin/addtests[m[33m)[m HEAD@{7}: commit: Add separate Style job to check code formatting
+[33m34f632f[m HEAD@{8}: commit: Add CI status badge to README
+[33m8cfd03a[m HEAD@{9}: commit: Add test coverage output to CI
+[33me590d2f[m HEAD@{10}: commit: Fix bug and restore passing tests
+[33m907f23e[m HEAD@{11}: commit: Break code to test CI failure
+[33m39ae05f[m HEAD@{12}: commit: Update CI to run tests instead of go version
+[33m1c4f555[m HEAD@{13}: commit: Update CI to run go version instead of force failure
+[33m5191808[m HEAD@{14}: commit: Add CI workflow that fails on purpose
+[33mb82072c[m HEAD@{15}: commit: Added my version line to README
+[33ma759e37[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{16}: checkout: moving from main to addtests
+[33ma759e37[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{17}: clone: from https://github.com/Monik2002/learn-cicd-starter
